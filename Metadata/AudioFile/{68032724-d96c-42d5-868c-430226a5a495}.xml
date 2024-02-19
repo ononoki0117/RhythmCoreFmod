@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{68032724-d96c-42d5-868c-430226a5a495}">
+		<property name="assetPath">
+			<value>Kanade.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>256.02612244897961</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{45e476a4-de24-47c9-9cd3-0f46d9047711}</destination>
+		</relationship>
+	</object>
+</objects>
